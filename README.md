@@ -65,7 +65,8 @@ About Website
 
 Sign-up Page
 
-(https://github.com/Abhishek572002/JobUpdatDetails/assets/103774658/661e1af9-3dbe-4c1b-a4c8-0e3193f35c12)
+![Uploading Screenshot 2023-09-05 192136.png…]()
+
 
 
 Login Page
