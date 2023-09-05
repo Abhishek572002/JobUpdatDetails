@@ -2,9 +2,7 @@
 About Website
 
 Sign-up Page
-
-![Uploading Screenshot 2023-09-05 192136.png…]()
-
+![Screenshot 2023-09-05 192136](https://github.com/Abhishek572002/JobUpdatDetails/assets/103774658/7af5d3ed-eb6e-42f1-9ff9-e4e2c17beba5)
 
 
 Login Page
